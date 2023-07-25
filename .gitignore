@@ -11,6 +11,7 @@ __pycache__/
 *.gz
 *.wav
 *.png
+.DS_Store
 
 # Distribution / packaging
 .Python
