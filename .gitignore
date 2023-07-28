@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+data backup/
+mel_test_85_15/
+mel_train_85_15/
+saved_models/
+
+
 .csv
 .txt
 .jpeg
