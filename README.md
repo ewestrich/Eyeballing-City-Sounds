@@ -1,4 +1,4 @@
-# Eyeballing-Urban-Sounds
+# Eyeballing-City-Sounds
 Using Convolutional Neural Networks to Classify Urban Sounds
 
 
