@@ -8,7 +8,7 @@ Using Convolutional Neural Networks to Classify Sound Types
 - Image detection is a very common use case of Machine Learning modeling. For example, self driving cars can detect what type of object is nearby or what color a traffic light is. Sound detection and classicification is less common. It is useful to have a predictive model that can interpret surrounding sounds and alert you for example of a gun shot or even a dog barking nearby.
 
 ## Data Understanding and Preperation
-- The data is sourced from [UrbanSounds8K] (https://urbansounddataset.weebly.com/urbansound8k.html)
+- The data is sourced from [UrbanSounds8K](https://urbansounddataset.weebly.com/urbansound8k.html)
   
 ## Modeling
 
