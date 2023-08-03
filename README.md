@@ -18,8 +18,14 @@ Using Convolutional Neural Networks to Classify Sound Types
 
 
 ## Model Evaluation
-
+- Model performed at 81% accuracy on test data set
+![CNN_Model_Confusion-Matrix](https://github.com/ewestrich/Eyeballing-City-Sounds/assets/129399785/987537cf-46fc-4851-b0b8-d14dacd0eb2c)
+- Evaluted model on several sounds recorded out in the street and saw success there as well
+  
 ## Uses and Next Steps
+- Utilize a dashboard to test newly recorded sounds and see how well the model does
+- Implement in a smart phone app to alert those who are hard of hearing of sounds in their surroundings
+
 
 
 
